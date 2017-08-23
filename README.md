@@ -1,3 +1,3 @@
 # tablesaw
 
-Home for the Tablesaw JavaDocs
+Home for Tablesaw Documentation
